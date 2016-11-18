@@ -10,12 +10,3 @@
 5. GMM.ipynb -Trains a Gaussian Mixture Model on the training data set. Gives accuracy on test data. Creates a similar feature csv file for a test data -Takes as input the txt file created by the keylogger. Predicts output on the test.csv file generated from the test_features.py file
 
 
-
-In the models folder follwing files are there :
-
-6. knn.ipynb : Takes input features from X.csv and corresponding labels from y.csv .  Trains a KNN Model on the training data set. Gives accuracy on test data.
-
-7. softmax.ipynb : Takes input features from X.csv and corresponding labels from y.csv .  Trains a softmax Model on the training data set and tunes parameter of cross validation set. Gives accuracy on test data.
-
-8. svm.ipynb : Takes input features from X.csv and corresponding labels from y.csv .  Trains a SVM Model on the training data set and tunes parameter of cross validation set. Gives accuracy on test data.
-
